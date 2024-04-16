@@ -1,0 +1,60 @@
+.toDoList {
+    background-color:  #444444;
+    margin: 70px;
+    padding: 10px;
+}
+
+.title{
+    color: white;
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 600;
+    font-size: xx-large;
+    font-style: normal;
+    text-shadow: 2px 3px 2px #b6b6b6;
+}
+
+.input{
+    border-radius: 30px;
+    padding: 10px;
+   
+}
+
+.addButton{
+    border-radius: 30px;
+    padding: 10px;
+    background-color:hsl(125, 47%, 54%);
+    cursor: pointer;
+    margin-left: 7px;
+}
+
+.list{
+    color: whitesmoke;
+}
+
+.text{
+   font-style: italic;
+}
+
+.dltButton{
+    border-radius: 30px;
+    padding: 10px;
+    background-color:hsl(3, 79%, 46%);
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.upButton{
+    border-radius: 30px;
+    padding: 10px;
+    background-color:hsl(258, 27%, 56%);
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.downButton{
+    border-radius: 30px;
+    padding: 10px;
+    background-color:hsl(67, 76%, 70%);
+    cursor: pointer;
+    margin-left: 10px;
+}
